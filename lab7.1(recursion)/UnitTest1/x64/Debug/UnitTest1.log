@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab7.1(recursion)\UnitTest1\UnitTest1.cpp(26,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab7.1(recursion)\Source.cpp(88): warning C4715: 'Calc': not all control paths return a value
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab7.1(recursion)\x64\Debug\UnitTest1.dll
